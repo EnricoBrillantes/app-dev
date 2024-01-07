@@ -1,2 +1,6 @@
 # app-dev
-My first repository
+
+**My Hobbies**
+- Running
+- Drawing 
+- Watching
